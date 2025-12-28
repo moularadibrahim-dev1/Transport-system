@@ -130,7 +130,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Ibrahim Moulrad**
+**MOULARAD Ibrahim**
 - GitHub: [@moularadibrahim-dev1](https://github.com/moularadibrahim-dev1)
 
 
