@@ -133,6 +133,4 @@ This project is licensed under the MIT License.
 **Ibrahim Moulrad**
 - GitHub: [@moularadibrahim-dev1](https://github.com/moularadibrahim-dev1)
 
----
 
-<p align="center">Made with ❤️ for Suptech University</p>
