@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+error_log
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Cache
+*.cache
+.phpunit.result.cache
+
+# Build
+dist/
+build/
+
+# Sensitive files - Don't commit database credentials in production!
+# config/db.php  # Uncomment this line if you don't want to share your DB config
